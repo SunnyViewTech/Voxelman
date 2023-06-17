@@ -1,4 +1,17 @@
-Voxelman
+Voxelman with Dollars MoCap
+========
+
+https://github.com/SunnyViewTech/Voxelman/assets/123790383/253342eb-be93-4144-a644-b512387045ab
+
+Usage
+-------------------
+1. Open Dollars MoCap
+2. Enable Unity Streaming
+
+
+
+
+Original README
 ========
 
 ![gif](https://github.com/keijiro/Voxelman/assets/343936/007c60af-dc88-4137-af3d-41820a681761)

@@ -1,7 +1,7 @@
 Voxelman with Dollars MoCap
 ========
 
-https://github.com/SunnyViewTech/Voxelman/assets/123790383/253342eb-be93-4144-a644-b512387045ab
+https://github.com/SunnyViewTech/Voxelman/assets/123790383/573cf9c8-6bf5-45ae-8fbe-a76153b7d8e2
 
 Usage
 -------------------
